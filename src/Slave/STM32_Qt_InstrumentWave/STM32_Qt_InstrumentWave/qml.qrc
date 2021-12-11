@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>FirstDefaultPage.qml</file>
+        <file>SecondCreateProjPage.qml</file>
+        <file>ThirdCollectionTableSettingPage.qml</file>
+        <file>EasyTableWidget.qml</file>
+        <file>content/AutoScroller.qml</file>
+        <file>content/FloatingButton_Active.svg</file>
+        <file>content/FloatingButton_Available.svg</file>
+        <file>content/FloatingButton_Unavailable.svg</file>
+        <file>content/HandwritingModeButton.qml</file>
+        <file>content/TextArea.qml</file>
+        <file>content/TextField.qml</file>
+        <file>FourthShearWavePage.qml</file>
+        <file>FifthCompressWavePage.qml</file>
+        <file>SixthDataManagePage.qml</file>
+        <file>SeventhAboutSystemPage.qml</file>
+        <file>SubDisplaySettingPage.qml</file>
+        <file>SubInstrumentSettingPage.qml</file>
+        <file>SubWaveBrowsePage.qml</file>
+    </qresource>
+</RCC>
